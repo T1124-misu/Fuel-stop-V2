@@ -1,72 +1,33 @@
 *{
-
 margin:0;
 padding:0;
 box-sizing:border-box;
-
 font-family:'Rubik',sans-serif;
-
 }
-
-
 body{
-
 background:#F8F6F0;
-
 color:#333;
-
 }
-
-
-
-
 /* =========================
    STICKY HEADER
 ========================= */
-
-
 .header{
-
-
 position:sticky;
-
 top:0;
-
 z-index:1000;
-
-
 display:flex;
-
 justify-content:space-between;
-
 align-items:center;
-
-
 padding:15px 30px;
-
-
-
 background:
-
 linear-gradient(
 90deg,
 #c1ff72,
 #00a560
 );
-
-
-
 box-shadow:
-
 0 5px 15px rgba(0, 0, 0, 0);
-
-
-
 }
-
-
-
-
 .brand{
 
 
