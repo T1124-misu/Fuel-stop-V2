@@ -1,6 +1,6 @@
 const data = {
 logo:"img/FS-logo.png",
-heroImage:"img/general-placeholder.png",
+heroImage:"img/FP-img.png",
 socials:[
 {
 icon:"img/IG-logo.png",
@@ -17,22 +17,37 @@ link:"https://wa.me/628871827081" //
 ],
 products:[
 {
-name:"Green Energy",
-image:"img/general-placeholder.png",
-description:"Smoothie berbahan sayuran hijau dan buah segar untuk membantu menjaga energi dan mendukung aktivitas harian.",
-nutrition:["High fiber","Vitamin A","Vitamin C","Low fat"]
+name:"Berry Stop",
+image:"img/Berry-stop.png",
+description:"A refreshing smoothie made with mixed berries, yogurt, and low-fat milk, providing a delicious meal replacement packed with natural antioxidants.",
+nutrition:[
+"Rich in anthocyanins",
+"High in Vitamin C",
+"Supports immune system",
+"Promotes natural collagen production"
+]
 },
 {
-name:"Berry Boost",
-image:"img/general-placeholder.png",
-description:"Smoothie dengan kombinasi buah berry alami sebagai pilihan meal replacement yang praktis dan menyegarkan.",
-nutrition:["Antioxidant","High vitamin","Natural sweetness","Rich in minerals"]
+name:"Choco Charge",
+image:"img/Choco-charge.png",
+description:"A creamy blend of banana, pure cocoa powder, milk, and vanilla yogurt, designed to provide lasting energy while supporting mental focus.",
+nutrition:[
+"High in potassium",
+"Source of dietary fiber",
+"Rich in cocoa antioxidants",
+"Helps reduce stress and improve focus"
+]
 },
 {
-name:"Tropical Mix",
-image:"img/general-placeholder.png",
-description:"Perpaduan buah tropis segar dengan rasa ringan untuk menemani aktivitas sehari-hari.",
-nutrition:["Vitamin C","Natural fruit nutrients","Source of energy","Contains fresh fruit fiber"]
+name:"Tropical Fuel",
+image:"img/Tropical-fuel.png",
+description:"A tropical combination of pineapple, mango, and pure coconut water, delivering refreshing hydration and essential nutrients for an active lifestyle.",
+nutrition:[
+"High in Vitamin C",
+"Contains natural digestive enzymes",
+"Rich in electrolytes",
+"Supports daily hydration"
+]
 }
 ],
 team:[
