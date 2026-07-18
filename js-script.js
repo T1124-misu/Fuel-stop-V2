@@ -30,7 +30,7 @@ nutrition:[
 {
 name:"Choco Charge",
 image:"img/Choco-charge.png",
-description:"A creamy blend of banana, pure cocoa powder, milk, and vanilla yogurt, designed to provide lasting energy while supporting mental focus.",
+description:"A creamy blend of banana, pure cocoa powder, and milk, designed to provide lasting energy while supporting mental focus.",
 nutrition:[
 "High in potassium",
 "Source of dietary fiber",
@@ -52,27 +52,27 @@ nutrition:[
 ],
 team:[
 {
-photo:"img/PH-CEO.png",
+photo:"img/Blank-profile.png",
 name:"Muhammad Rafi Kanza",
 role:"CEO"
 },
 {
-photo:"img/PH-Finance.png",
+photo:"img/Blank-profile.png",
 name:"Muhammad Iksan Hakiki",
 role:"Financial Manager"
 },
 {
-photo:"img/PH-Marketing.png",
+photo:"img/Blank-profile.png",
 name:"Mochamad Windu Gamara Akuba",
 role:"Marketing Manager"
 },
 {
-photo:"img/PH-Production.png",
+photo:"img/Blank-profile.png",
 name:"Rafif Aran Kusumo",
 role:"Production Manager"
 },
 {
-photo:"img/PH-CS.png",
+photo:"img/Blank-profile.png",
 name:"Yanti Dewi Lestari",
 role:"Customer Service"
 }
